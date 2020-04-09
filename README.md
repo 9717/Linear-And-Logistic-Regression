@@ -2,9 +2,9 @@
 
 In Titanic dataset , Implement the logistic regression and find aout the Accuracy of model
 
-#Implementing Logistic Regression¶
-steps
+# Implementing Logistic Regression
 
+steps
 # 1) Collecting data
 
 # 2) Analysing Data
