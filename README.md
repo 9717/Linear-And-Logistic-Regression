@@ -5,9 +5,9 @@ In Titanic dtaaset I Implement the logistic regression and find aout the Accurac
 #Implementing Logistic Regression¶
 steps
 
-#1) Collecting data
+# 1) Collecting data
 
-#2) Analysing Data
+# Analysing Data
 
 #3) Data Wrangling
 
